@@ -238,8 +238,3 @@ The approach is scalable to full creative workflows like audiobooks, explainer v
 
 
 
-
-
-
-# Result:
-
